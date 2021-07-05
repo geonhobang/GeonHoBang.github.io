@@ -26,7 +26,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    github:  https://github.com/GeonHoBang/
+    github:  GeonHoBang
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
